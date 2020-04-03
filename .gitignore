@@ -1,0 +1,17 @@
+i.idea/
+.settings/
+/target/
+*.iml
+.classpath
+.project
+*.iml
+*.ipr
+*.iws
+/out
+/bin/
+/classes
+.DS_Store
+node_modules/
+/lib
+/build
+/data/*
